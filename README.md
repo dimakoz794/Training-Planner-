@@ -1,6 +1,8 @@
 # Training Planner
 
-**Автор:** [Ваше имя и фамилия]
+**Автор:** [Козлов Дмитрий]
+
+**Дата:** [2026-04-30]
 
 
 ## Описание
@@ -34,7 +36,7 @@ Training Planner — это GUI‑приложение для планирова
 
 1. Скачайте или клонируйте репозиторий:
    ```bash
-   git clone <ссылка_на_репозиторий>
+   git clone <[ссылка_на_репозиторий](https://github.com/dimakoz794/Training-Planner-/blob/main/main.py)>
 2. Перейдите в папку проекта:
 
    cd TrainingPlanner
